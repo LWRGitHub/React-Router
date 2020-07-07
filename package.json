@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "react-scripts": "1.0.6"
   },
   "dependencies": {
@@ -12,8 +13,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "homepage": "http://LWRGitHub.github.io/React-Router"
 }
