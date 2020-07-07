@@ -3,7 +3,7 @@ import React from 'react';
 const About = (props) => (
   <div className="main-content">
     <h2>{ props.title }</h2>
-    <p>The front end course directory lists many of the courses we teach on HTML, CSS, JavaScript and more! Be sure to visit the Teachers section to view a list of our talented teachers. Or visit the Courses section and select a topic -- HTML, CSS, or JavaScript -- to see a list of our courses.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut rutrum ipsum quis facilisis consequat. Aliquam lorem ante, luctus eget vehicula sit amet, accumsan in velit. Integer a faucibus ante. Praesent risus enim, tristique vel lobortis a, tincidunt a elit. Phasellus bibendum feugiat felis, a pulvinar purus rhoncus ac. Ut convallis nibh in mi euismod, eu cursus turpis hendrerit. Ut accumsan dignissim neque, vel vestibulum erat vulputate sed. Aliquam a ipsum accumsan, ultrices dolor sagittis, vulputate dui. Fusce est tortor, efficitur sodales orci vel, ornare placerat nibh.</p>
   </div>
 );
 

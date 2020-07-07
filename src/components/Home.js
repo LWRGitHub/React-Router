@@ -15,8 +15,8 @@ class Home extends Component {
       <div className="main-content home">
         <h2>Front End Course Directory</h2>
         <p>This fun directory is a project using <em>React Router</em>.</p>
-        <p>Learn front end web development and much more! This simple directory app offers a preview of our course library. Choose from many hours of content, from HTML to CSS to JavaScript. Learn to code and get the skills you need to launch a new career in front end web development.</p>
-        <p>We have thousands of videos created by expert teachers on web design and front end development. Our library is continually refreshed with the latest on web technology so you will never fall behind.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sodales sapien viverra, rutrum leo quis, varius enim. Mauris hendrerit pulvinar sem, et mollis leo tristique et. Aenean a velit laoreet, commodo sapien et, mattis lorem. Fusce id mi quis felis porttitor convallis vitae bibendum tellus. Maecenas ac lectus eu turpis tincidunt sollicitudin.</p>
+        <p>Pellentesque vitae porttitor sem. Aliquam erat sapien, lobortis ut quam eu, pulvinar finibus nisl. Suspendisse potenti. Ut eget iaculis ex, vitae egestas ligula. Sed ultricies nibh non ipsum posuere finibus.</p>
         <hr />
         <h3>Featured Teachers</h3>
         <form onSubmit={this.handleSubmit}>
