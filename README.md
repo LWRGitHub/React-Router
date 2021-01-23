@@ -35,8 +35,8 @@ yarn start
 
 ***Courses pg: Mobile***
 
-<img alt="Screenshot of course directories side About page on a mobile" src="https://github.com/lwrgithub/react-router/blob/master/public/img/courses-pg-mobile.png" />
+<img alt="Screenshot of course directories side About page on a mobile" width="50%" src="https://github.com/lwrgithub/react-router/blob/master/public/img/courses-pg-mobile.png" />
 
 ***About pg: Mobile***
 
-<img alt="Screenshot of course directories side About page on a mobile" src="https://github.com/lwrgithub/react-router/blob/master/public/img/about-pg-mobile.png" />
+<img alt="Screenshot of course directories side About page on a mobile" width="50%" src="https://github.com/lwrgithub/react-router/blob/master/public/img/about-pg-mobile.png" />
