@@ -1,5 +1,5 @@
 #  Course Directory Website
-Fun Website built with React Router that talks about teaching different technologies with a lists of courses & teachers. This site is mainly to shows off my skill with React Router on desktop & mobile.
+Fun website built with React.js that talks about teaching different technologies with a lists of courses & teachers. This site is mainly to shows off my skill with React Router on desktop & mobile.
 
 **View Website:** [Here](https://lwrgithub.github.io/Course-Directory-Site/#/)
 
