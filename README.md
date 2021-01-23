@@ -15,11 +15,12 @@ Fun Website build with React Router that talks about teaching different technolo
 ## Install/Setup
 
 **Install**
-1. install dependencies
+1. Install Dependencies
 ```
-yarn install
+npm install
 ```
-2. If you want to use GitHub pages 
+2. Install GitHub Pages 
+
 ***NOTE: make sure to change the files to reflect your GitHub info:*** [Learn How](https://blog.usejournal.com/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e)
 ```
 npm install gh-pages --save-dev
@@ -28,15 +29,18 @@ npm install gh-pages --save-dev
 
 **Run:** localhost:3000
 ```
-yarn start
+npm start
 ```
 
 **Push Info**
-1. if using GitHub Pages do build first
+1. When using GitHub Pages do a build before pushing
 ```
 npm run deploy
 ```
 2. Push
+```
+git push
+```
 
 ## Site Images
 ***Home pg: Desktop***
