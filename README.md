@@ -54,3 +54,4 @@ npm run deploy
 ***About pg: Mobile***
 
 <img alt="Screenshot of course directories side About page on a mobile" width="50%" src="https://github.com/lwrgithub/Course-Directory-Site/blob/master/public/img/about-pg-mobile.png" />
+
