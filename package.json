@@ -19,5 +19,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://LWRGitHub.github.io/React-Router"
+  "homepage": "http://LWRGitHub.github.io/Course-Directory-Site"
 }
